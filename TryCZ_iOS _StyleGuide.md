@@ -14,7 +14,6 @@ Here are some of the documents from Apple that informed the style guide.
 * [Spacing](#spacing)
 * [Comments](#comments)
 * [Naming](#naming)
-  * [Underscores](#underscores)
 * [Methods](#methods)
 * [Variables](#variables)
 * [Property Attributes](#property-attributes)
