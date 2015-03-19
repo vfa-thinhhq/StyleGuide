@@ -25,7 +25,6 @@ Here are some of the documents from Apple that informed the style guide.
 * [Private Properties](#private-properties)
 * [Booleans](#booleans)
 * [Conditionals](#conditionals)
-  * [Ternary Operator](#ternary-operator)
 * [Init Methods](#init-methods)
 * [Class Constructor Methods](#class-constructor-methods)
 
