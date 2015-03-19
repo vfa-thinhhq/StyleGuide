@@ -64,37 +64,28 @@ Use `#pragma mark -` to categorize methods in functional groupings and protocol/
 - (void)dealloc {}
 - (void)viewDidLoad {}
 - (void)viewWillAppear:(BOOL)animated {}
-- (void)didReceiveMemoryWarning {}
-
-#pragma mark - Custom Accessors
-
-- (void)setCustomProperty:(id)value {}
-- (id)customProperty {}
 
 #pragma mark - IBActions
 
 - (IBAction)submitData:(id)sender {}
 
-#pragma mark - Public
+#pragma mark - Method Public
 
 - (void)publicMethod {}
 
-#pragma mark - Private
+#pragma mark - Method Private
 
 - (void)privateMethod {}
 
-#pragma mark - Protocol conformance
+#pragma mark - Protocol
 #pragma mark - UITextFieldDelegate
 #pragma mark - UITableViewDataSource
 #pragma mark - UITableViewDelegate
 
-#pragma mark - NSCopying
+#pragma mark - API
 
-- (id)copyWithZone:(NSZone *)zone {}
+- (void)getNameZoneWithID:(NSInterger )zoneID {}
 
-#pragma mark - NSObject
-
-- (NSString *)description {}
 ```
 
 ## Spacing
